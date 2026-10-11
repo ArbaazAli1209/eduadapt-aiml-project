@@ -9,7 +9,7 @@
 > AI-powered adaptive learning companion for rural students: Bayesian Knowledge Tracing, open-source LLM quiz generation,
 > Hindi/English support and an explainable dropout-risk dashboard for teachers.
 
-**Live demo:** https://your-app.streamlit.app
+**Live demo:** https://eduadapt-aiml-project-etjn67ffoknhpdyplppa2t.streamlit.app
 
 EduAdapt gives rural students a personal AI tutor. It finds what each student does not yet understand,
 serves practice questions at the right difficulty in English or Hindi, and shows teachers which students are
