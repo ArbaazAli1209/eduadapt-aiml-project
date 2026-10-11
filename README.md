@@ -2,14 +2,14 @@
 
 **SDG 4: Quality Education | IBM SkillsBuild AI/ML Internship Final Project**
 
-[![Tests](https://github.com/<your-username>/eduadapt/actions/workflows/tests.yml/badge.svg)](https://github.com/<your-username>/eduadapt/actions)
+[![Tests](https://github.com/ArbaazAli1209/eduadapt-aiml-project/actions/workflows/tests.yml/badge.svg)](https://github.com/ArbaazAli1209/eduadapt-aiml-project/actions)
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 > AI-powered adaptive learning companion for rural students: Bayesian Knowledge Tracing, open-source LLM quiz generation,
 > Hindi/English support and an explainable dropout-risk dashboard for teachers.
 
-**Live demo:** https://your-app.streamlit.app *(replace after deployment; see [DEPLOYMENT.md](DEPLOYMENT.md))*
+**Live demo:** https://your-app.streamlit.app
 
 EduAdapt gives rural students a personal AI tutor. It finds what each student does not yet understand,
 serves practice questions at the right difficulty in English or Hindi, and shows teachers which students are
