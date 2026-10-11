@@ -1,0 +1,9 @@
+# ---- Optional AI features (all free / open source) ----
+# Local LLM quiz generation + Hindi translation (IBM Granite from Hugging Face, MarianMT)
+torch
+transformers>=4.44
+sentencepiece
+sacremoses
+accelerate
+# Speech to text (also needs the ffmpeg system package)
+openai-whisper

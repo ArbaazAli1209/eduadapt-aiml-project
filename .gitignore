@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.pytest_cache/
+
+# Secrets and local settings
+.env
+
+# Local data and generated files (recreated by train_models.py)
+*.db
+models/*.pkl
+models/*.json
+reports/*.png
+reports/*.json
+
+# Large datasets: download them yourself (see README)
+data/*.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
